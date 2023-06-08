@@ -1,12 +1,9 @@
 # Git Tutorial
 
-This repository contains the source code and materials for the "Git Tutorial" video.
+This repository contains the source code and materials for the "Git Tutorial" for my usage.
 
-In this tutorial video, we will cover the basics of Git, a widely used version control system. Git allows you to track changes to your code, collaborate with others, and easily manage different versions of your projects.
+In this tutorial video, I will cover the basics of Git, a widely used version control system. Git allows one to track changes to code, collaborate with others, and easily manage different versions of your projects.
 
-## Video Link
-
-You can watch the tutorial video on [YouTube](https://www.youtube.com/your-video-link).
 
 ## Contents
 
@@ -56,9 +53,3 @@ This project is licensed under the [MIT License](LICENSE.md).
 ## Acknowledgments
 
 Special thanks to the contributors and resources that inspired and supported the creation of this tutorial.
-"""
-
-formatted_markdown = markdown_content.strip()
-
-print(formatted_markdown)
-****
